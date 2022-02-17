@@ -1,8 +1,8 @@
 ---
-title: "Welcome to DACSS 601"
+title: "Welcome to Network Analysis"
 description: |
-  Welcome to DACSS 601: Foundations of Data Science. We hope you enjoy 
-  reading what we have to say!
+  Welcome to Politcal and Social Networks. We hope you enjoy 
+  seeing some of the work created by UMass students.
 categories:
   - welcome
 author:
@@ -10,7 +10,7 @@ author:
     url: http://umass.edu/sbs/dacss
     affiliation: DACSS
     affiliation_url: http://umass.edu/sbs/dacss
-date: 03-25-2021
+date: 01-27-2022
 output:
   distill::distill_article:
     self_contained: false
@@ -18,11 +18,8 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
 # Learn more about creating blogs with Distill at:
 # https://rstudio.github.io/distill/blog.html
-
 ```
-
 
 

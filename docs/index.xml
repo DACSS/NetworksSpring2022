@@ -12,7 +12,194 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Week 2 Assignment</title>
+      <dc:creator>Kristina Becvar</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomkbecenron</link>
+      <description>Analyzing the Enron Emails dataset from the network package</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomkbecenron</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httprpubscomkbecenron/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Initial Network Analysis Florentine Family</title>
+      <dc:creator>Noah Milstein</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-01-31-the-sharpe-ratio</link>
+      <description>Homework 2: Brief Analysis of the Florentine Family Set</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-01-31-the-sharpe-ratio</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-01-31-the-sharpe-ratio/Homework_2_Noah_Milstein_files/figure-html5/unnamed-chunk-2-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Florentine Families Week 3 Assignment</title>
+      <dc:creator>Noah Milstein</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-02-07-florentine-families-week-3-assignment</link>
+      <description>A short description of the post.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-02-07-florentine-families-week-3-assignment</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-02-07-florentine-families-week-3-assignment/florentine-families-week-3-assignment_files/figure-html5/unnamed-chunk-2-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Work with Medieval Networks</title>
+      <dc:creator>Noah Milstein</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-02-10-workwithmedievalnetworks</link>
+      <description>A Brief Analysis of Networks of Medieval Conflict.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-02-10-workwithmedievalnetworks</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-02-10-workwithmedievalnetworks/workwithmedievalnetworks_files/figure-html5/unnamed-chunk-20-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>The Human Disease Taana Baana</title>
+      <dc:creator>Abhinav Kumar</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomak64823865458</link>
+      <description>Gene to Gene Network Analysis (bird's eye view)</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomak64823865458</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomak64823865458/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Social Network Analysis: Week 2: Basic Network Structure</title>
+      <dc:creator>Audra Jamai White</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombunnificent862631</link>
+      <description>use `igraph` and `statnet` tools to describe aspects of network structure introduced in the Week 2 Lecture: Dyads and Dyad Census, Triads and Triad Census, Network Transitivity and Clustering, Path Length &amp; Geodesic</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombunnificent862631</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Degree and Centrality</title>
+      <dc:creator>Justin Burnworth</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj864158</link>
+      <description>'My dataset includes every Supreme Court Justice and the school that their clerks attended. There are 187 vertices which contstitute the Justices and the different universiteis. There are 2487 edges and an edge means there is a connection between a Justice and a school because they have hired a clerk that graduated with their law degree from the university.The network density of the dataset is .149 not including loops. When looking at node degreee, you will see that Harvard has the highest count of relationships with 681, Yale is second wiht 464, and Chicago is third with 172.The median node degree is 3 and The mean is 27.33. While the max is 681. The centralziation score for both in and out degrees is 3.65. The nodes with the most outdegree are Harvard, Yale, Chicago, Standford, and Columbia. The nodes with the least outdegree are Penn, Northeastern, Virginia, Temple, Washington &amp; Lee.'</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj864158</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Week 4</title>
+      <dc:creator>Justin Burnworth</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj867161</link>
+      <description>My dataset includes every Supreme Court Justice and the school that their clerks attended. There are 187 vertices which contstitute the Justices and the different universiteis. There are 2487 edges and an edge means there is a connection between a Justice and a school because they have hired a clerk that graduated with their law degree from the university.
+
+The centralization score for the dataset is .952. The more modern Justices have a higher betweenness score and I believe that is attributed to the fact that the total number of clerks have significantly grown starting back in the 1950s. The schools with the highest scores are Harvard, Georgetown, GW all schools where there have been many clerks hired from. While the schools with a few or only one clerk hired from have much lower scores. 
+
+When it comes to eigenvector centarlity, shows some intersting reults. A modern justice such as Justice Gorsuch has among the highest while Justice Scalia is more middle of the pack. Howver, an older justice, Justice William Howard Taft has just as high of a score as Justice Gorsuch. I am not really sure what these results man. Justice Gorsuch's high score might be explained because he both clerked for a Justice and is a Justice himself.
+
+  The school with the highest bonachi-power is Minnesota with -3.63 whil the lowest is Notre Dame. The Justice with the highest score is interestingly the newest Justice, Amy Coney-Barrett.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj867161</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Testing</title>
+      <dc:creator>Cynthia Hester</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomchester860583</link>
+      <description>A new article created using the Distill format.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomchester860583</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Short Assignment 2</title>
+      <dc:creator>Eunice C. Silva</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomecaetanoesil865861</link>
+      <description>Describing Network Data</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomecaetanoesil865861</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Week 2 Assignment</title>
+      <dc:creator>Lissie  Bates-Haus, Ph.D.</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlbateshaus862879</link>
+      <description>An exploration of the Sampson's Monks dataset.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlbateshaus862879</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Week 4 Data Exploration</title>
+      <dc:creator>Lissie Bates-Haus</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlbateshaus867200</link>
+      <description>An exploration of centrality and centralization in the Florentine Families dataset</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlbateshaus867200</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlbateshaus867200/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Networks Hw 2</title>
+      <dc:creator>Peter Sullivan</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscompjsulliv34864273</link>
+      <description>A closer look at Enrons Emails</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscompjsulliv34864273</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscompjsulliv34864273/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Short Assignment 2</title>
+      <dc:creator>Yifan Li</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomyli210813861702</link>
+      <description>A new article created using the Distill format.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomyli210813861702</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Describing the Network Data</title>
+      <dc:creator>Santiago Virgüez</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpssvirguezgithubioichrnetworksposts2022-02-02-describing-the-network-data</link>
+      <description>From raw data to network data</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpssvirguezgithubioichrnetworksposts2022-02-02-describing-the-network-data</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Status and Centrality Measures in the IAcHR Network</title>
+      <dc:creator>Santiago Virgüez</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpssvirguezgithubioichrnetworksposts2022-02-16-status-and-centrality-measures-in-the-iachr-network</link>
+      <description>A look at the status measures of the network</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpssvirguezgithubioichrnetworksposts2022-02-16-status-and-centrality-measures-in-the-iachr-network</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpssvirguezgithubioichrnetworksposts2022-02-16-status-and-centrality-measures-in-the-iachr-network/status-and-centrality-measures-in-the-iachr-network_files/figure-html5/unnamed-chunk-2-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Assignment_2</title>
+      <dc:creator>Walid Medani</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-02-02-assignment2</link>
+      <description>Network of militarized interstate disputes from 1870 to 2014. (https://correlatesofwar.org/data-sets/MIDs)</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-02-02-assignment2</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-02-02-assignment2/assignment2_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Assignment_3</title>
+      <dc:creator>Walid Medani</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-02-07-assignment3</link>
+      <description>Degree and Centrality. (https://correlatesofwar.org/data-sets/MIDs)</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-02-07-assignment3</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-02-07-assignment3/assignment3_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Assignment_4</title>
+      <dc:creator>Walid Medani</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-02-16-assignment4</link>
+      <description>Status and Eigenvector (https://correlatesofwar.org/data-sets/MIDs)</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-02-16-assignment4</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-02-16-assignment4/assignment4_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Homework 3</title>
+      <dc:creator>Yifan Li</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw3</link>
+      <description>Week 3 Assignment: Degree and Centrality.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw3</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw3/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Homework 4</title>
+      <dc:creator>Yifan Li</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw4</link>
+      <description>Week 4 Assignment: Network Status.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw4</guid>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw4/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>Welcome to DACSS 601</title>
       <dc:creator>Meredith Rolfe</dc:creator>

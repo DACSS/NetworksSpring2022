@@ -12,7 +12,53 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Week 5 Interpretaive Assignment</title>
+      <dc:creator>Noah Milstein</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-02-21-week-5-interpretaive-assignment</link>
+      <description>A short description of the post.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-02-21-week-5-interpretaive-assignment</guid>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-02-21-week-5-interpretaive-assignment/week-5-interpretaive-assignment_files/figure-html5/unnamed-chunk-2-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Betweeness Centrality</title>
+      <dc:creator>Justin Burnworth</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj873118</link>
+      <description>"My dataset includes every Supreme Court Justice and the school that their clerks attended. There are 187 vertices which contstitute the Justices and the different universiteis. There are 2487 edges and an edge means there is a connection between a Justice and a school because they have hired a clerk that graduated with their law degree from the university.  
+I tried to calculate brokerage, but it says that my data is not proper and I get an error message. I am not sure if that it user error(most likely) or if I am just mixing the steps up.
+I was able to calcuate betweeness centrality, but I could not get dplyr to let me slice or arrange the data so I could tell which nodes were the highest. I will work further to make progress on working with the data."</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj873118</guid>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Betweenness in the Amici Network</title>
+      <dc:creator>Santiago Virgüez</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpssvirguezgithubioichrnetworksposts2022-02-23-brokerage-and-betweenness-in-the-amici-network</link>
+      <description>Brokerage, betweenness, and other centrality measures</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpssvirguezgithubioichrnetworksposts2022-02-23-brokerage-and-betweenness-in-the-amici-network</guid>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assignment_5</title>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-03-02-assignment5</link>
+      <description>Structural Holes
+author:
+- name: Walid Medani
+  url: https://walidmedani.github.io/networks-blog/</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-03-02-assignment5</guid>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-03-02-assignment5/assignment5_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Homework 5</title>
+      <dc:creator>Yifan Li</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw5</link>
+      <description>Week 5 Assignment: Brokerage and Power.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw5</guid>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Week 2 Assignment</title>
       <dc:creator>Kristina Becvar</dc:creator>

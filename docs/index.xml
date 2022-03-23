@@ -14,15 +14,6 @@
     <generator>Distill</generator>
     <lastBuildDate>Sat, 12 Mar 2022 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Assignment6</title>
-      <dc:creator>Zoe Bean</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombean22z875971</link>
-      <description>assignment for political and social network analysis</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombean22z875971</guid>
-      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombean22z875971/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
-    </item>
-    <item>
       <title>Into the 20th Century (Conflict Data) Homework 6</title>
       <dc:creator>Noah Milstein</dc:creator>
       <link>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-03-07-into-the-20th-century-conflict-data</link>
@@ -32,13 +23,13 @@
       <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-03-07-into-the-20th-century-conflict-data/into-the-20th-century-conflict-data_files/figure-html5/unnamed-chunk-5-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
-      <title>Social Network Analysis Homework 6</title>
-      <dc:creator>Yifan Li</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkhomework6</link>
-      <description>Roles &amp; blockmodels.</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkhomework6</guid>
+      <title>Assignment6</title>
+      <dc:creator>Zoe Bean</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombean22z875971</link>
+      <description>assignment for political and social network analysis</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombean22z875971</guid>
       <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkhomework6/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombean22z875971/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
       <title>How Elite is the Supreme Court?</title>
@@ -50,6 +41,15 @@ The new version of my dataset has 104 vertices. It is a directed network. It is 
       <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj876640</guid>
       <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
       <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj876640/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Social Network Analysis Homework 6</title>
+      <dc:creator>Yifan Li</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkhomework6</link>
+      <description>Roles &amp; blockmodels.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkhomework6</guid>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkhomework6/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
       <title>Week 5 Interpretaive Assignment</title>

@@ -12,7 +12,56 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Sat, 12 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Community Detection</title>
+      <dc:creator>Santiago Virgüez</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpssvirguezgithubioichrnetworksposts2022-03-23-community-detection</link>
+      <description>A comparison of community clusters in the IACtHR network using different algorithms</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpssvirguezgithubioichrnetworksposts2022-03-23-community-detection</guid>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpssvirguezgithubioichrnetworksposts2022-03-23-community-detection/community-detection_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="2688" height="2304"/>
+    </item>
+    <item>
+      <title>How Elite is the Supreme Court?</title>
+      <dc:creator>Justin Burnworth</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj881541</link>
+      <description>"After struggling most weeks trying to work with my dataset, I realized from our classes that I was looking at my dataset the wrong way. So, I decided to flip the format. I am now looking at just how elite the Supreme Court has been over its history. I do this by grouping Justices to the school they attended. It was such a relief to be able to run the different network commands and actually get graphs or data. I will save working on formating the graphs for the future when my brain recovers.
+
+The new version of my dataset has 104 vertices. It is a directed network. It is not bipartite and there are a total of 76 edges.
+
+This was my record for going the longest in R without running into a wall. I feel a lot more comfortable with R and using network analysis in R ,but I still have a lot of work to do when it comes to understanding the results."</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj881541</guid>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj881541/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Social Network Analysis Homework 7</title>
+      <dc:creator>Yifan Li</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw7</link>
+      <description>Roles &amp; Communities.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw7</guid>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw7/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Assignment7</title>
+      <dc:creator>Zoe Bean</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombean22z881579</link>
+      <description>assignment for political and social network analysis</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombean22z881579</guid>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombean22z881579/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Blog Post 7, Integrating ML</title>
+      <dc:creator>Noah Milstein</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-03-21-blog-post-7</link>
+      <description>This post is an analysis of community structure and machine learning techniques on my medieval dataset.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-03-21-blog-post-7</guid>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubioposts2022-03-21-blog-post-7/images/silly_cat.png" medium="image" type="image/png" width="1022" height="1064"/>
+    </item>
     <item>
       <title>Into the 20th Century (Conflict Data) Homework 6</title>
       <dc:creator>Noah Milstein</dc:creator>

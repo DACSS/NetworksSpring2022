@@ -12,7 +12,36 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Elitism of the Supreme Court: Liberals v. Conservatives</title>
+      <dc:creator>Justin Burnworth</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj884412</link>
+      <description>"After the feedback about this homework, I hopefully fixed my dataset. A tie now consists of a Justice and the school they attened and every school they have hired a clerk from. This solved my issue from before where there was limited connections. 
+
+My results were chaotic involving the entire history of Justices. I decided to focus on the current Justices on the Supreme Court. Further, I thought it would be interesting to split up and compare networks of conservative and liberal Justices(based on the party of the appointing president)."</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj884412</guid>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj884412/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Assignment_7</title>
+      <dc:creator>Walid Medani</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-03-24-assignment7</link>
+      <description>Community Detection (Marriages between characters in the Game of Thrones Novels)</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-03-24-assignment7</guid>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-03-24-assignment7/assignment7_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Assignment_6</title>
+      <dc:creator>Walid Medani</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-03-10-assignment6</link>
+      <description>Roles and Blockmodels (Marriages between characters in the Game of Thrones Novels)</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-03-10-assignment6</guid>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpswalidmedanigithubionetworks-blogposts2022-03-10-assignment6/assignment6_files/figure-html5/unnamed-chunk-3-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>Community Detection</title>
       <dc:creator>Santiago Virgüez</dc:creator>

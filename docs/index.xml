@@ -12,7 +12,51 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Elitism of the Supreme Court: Liberals v. Conservatives</title>
+      <dc:creator>Justin Burnworth</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj886887</link>
+      <description>"After the feedback about this homework, I hopefully fixed my dataset. A tie now consists of a Justice and the school they attened and every school they have hired a clerk from. This solved my issue from before where there was limited connections. 
+
+My results were chaotic involving the entire history of Justices. I decided to focus on the current Justices on the Supreme Court. Further, I thought it would be interesting to split up and compare networks of conservative and liberal Justices(based on the party of the appointing president).
+
+The Democrat Appointed Justices Network has 27 nodes, is directed, and has 243 total edges. The REpublican Appointed Justices Network has 35 nodes, is directed, and has 334 total edges."</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj886887</guid>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomburnworthj886887/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Homework 9</title>
+      <dc:creator>Yifan Li</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw9</link>
+      <description>Week 9 Assignment: Network Statistics.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw9</guid>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsyli210813githubiosocialnetworkanalysishw9/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Networks Blog Post 9</title>
+      <dc:creator>Noah Milstein</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubiomyblogposts2022-04-11-networks-blog-post-9</link>
+      <description>A short description of the post.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubiomyblogposts2022-04-11-networks-blog-post-9</guid>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsnmilsteinumagithubiomyblogposts2022-04-11-networks-blog-post-9/networks-blog-post-9_files/figure-html5/unnamed-chunk-10-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Elitism of the Supreme Court: Liberals v. Conservatives</title>
+      <dc:creator>Justin Burnworth</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/elitism-of-the-supreme-court-liberals-v-conservatives</link>
+      <description>"After the feedback about this homework, I hopefully fixed my dataset. A tie now consists of a Justice and the school they attened and every school they have hired a clerk from. This solved my issue from before where there was limited connections. 
+
+My results were chaotic involving the entire history of Justices. I decided to focus on the current Justices on the Supreme Court. Further, I thought it would be interesting to split up and compare networks of conservative and liberal Justices(based on the party of the appointing president).
+
+The Democrat Appointed Justices Network has 27 nodes, is directed, and has 243 total edges. The REpublican Appointed Justices Network has 35 nodes, is directed, and has 334 total edges."</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/elitism-of-the-supreme-court-liberals-v-conservatives</guid>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/elitism-of-the-supreme-court-liberals-v-conservatives/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>Elitism of the Supreme Court: Liberals v. Conservatives</title>
       <dc:creator>Justin Burnworth</dc:creator>

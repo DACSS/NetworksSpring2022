@@ -12,7 +12,91 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Clustering Stocks</title>
+      <dc:creator>Peter Sullivan</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpswwwsullivcomposts2022-04-24-clustering-stocks</link>
+      <description>A closer look into the S&amp;P 500 stocks</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpswwwsullivcomposts2022-04-24-clustering-stocks</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpswwwsullivcomposts2022-04-24-clustering-stocks/preview.png" medium="image" type="image/png" width="900" height="525"/>
+    </item>
+    <item>
+      <title>Inferential Network Statistics</title>
+      <dc:creator>Peter Sullivan</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpswwwsullivcomposts2022-04-24-inferential-network-statistics</link>
+      <description>A closer look into the S&amp;P 500 stock network properties.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpswwwsullivcomposts2022-04-24-inferential-network-statistics</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpswwwsullivcomposts2022-04-24-inferential-network-statistics/inferential-network-statistics_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>The Human Disease -- Week 3</title>
+      <dc:creator>Abhinav Kumar</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomak64823895256</link>
+      <description>Gene to Gene Network Analysis (bird's eye view)</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomak64823895256</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomak64823895256/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Introduction to Football Networks</title>
+      <dc:creator>Isha Akshita Mahajan, Ankit Kumar</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkpostswelcometransfer-of-players-in-european-football</link>
+      <description>In this blog, We'll be referring to soccer as football -- since it's played with a foot.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkpostswelcometransfer-of-players-in-european-football</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Network Degree</title>
+      <dc:creator>Isha Akshita Mahajan,Ankit Kumar</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkposts2022-05-08-network-degree</link>
+      <description>Network Degree of Football Networks</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkposts2022-05-08-network-degree</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkposts2022-05-08-network-degree/network-degree_files/figure-html5/unnamed-chunk-7-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Exploring European Football Transfer Networks</title>
+      <dc:creator>Isha Akshita Mahajan, Ankit Kumar</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkposts2022-05-08-exploring-european-football-transfer-networks</link>
+      <description>Exploring a network of football teams and the transactions they made from 2018-2021. 
+An Edgelist maybe?</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkposts2022-05-08-exploring-european-football-transfer-networks</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkposts2022-05-08-exploring-european-football-transfer-networks/exploring-european-football-transfer-networks_files/figure-html5/unnamed-chunk-4-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Network Status and Centrality</title>
+      <dc:creator>Isha Akshita Mahajan, Ankit Kumar</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkposts2022-05-09-network-status</link>
+      <description>Who are the key actors in the football network? What makes them the key actors</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkposts2022-05-09-network-status</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkposts2022-05-09-network-status/network-status_files/figure-html5/unnamed-chunk-6-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Introduction to Football Networks</title>
+      <dc:creator>Isha Akshita Mahajan, Ankit Kumar</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkpostswelcome</link>
+      <description>In this blog, We'll be referring to soccer as football -- since it's played with a foot.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsisha-mahajan12githubiofootballtransfersocialnetworkpostswelcome</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Analysis</title>
+      <dc:creator>Kristina Becvar</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpgratefulnetworklivepostsstatistics</link>
+      <description>Using Univariate Conditional Uniform Graph Tests</description>
+      <category>network analytics</category>
+      <category>statistics</category>
+      <category>CUG test</category>
+      <category>statnet</category>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpgratefulnetworklivepostsstatistics</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpgratefulnetworklivepostsstatistics/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>DACSS 697E Assignment 7</title>
       <dc:creator>Kristina Becvar</dc:creator>
